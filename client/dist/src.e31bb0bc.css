@@ -1,0 +1,55 @@
+.app-component{
+    margin: 0;
+    text-align: center;
+}
+
+body {
+    background-color: teal;
+    color:white;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    padding-top: 5%;
+    word-wrap: break-word;
+}
+
+#single-link{
+margin-left: 0;
+}
+
+
+.header{
+display: inline-block;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    color: #fff;
+    text-decoration: underline;
+    font-size: 3rem;
+    margin-left: 2.5rem;
+}
+
+a:hover{
+    font-size: 3.5rem;
+}
+
+.create-poll{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn-dark{
+    color: black;
+}
+
+.btn-dark-right{
+    margin-left: 1.5rem;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
